@@ -36,7 +36,7 @@ public class COE420Lab1 {
 	}
 	
 	public static int addition(int w, int z) {
-		int sum = w - z;
+		int sum = w + z;
 		return sum; 
 	}
 	
