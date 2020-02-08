@@ -32,7 +32,7 @@ public class COE420Lab1 {
 		
 		
 		//Exercise 5: Spot the issues to be reported
-		addition(4,5); // should print the sum of the values provided
+		System.out.println(addition(4,5)); // should print the sum of the values provided
 		System.out.println(welcome()); // should print the welcome message to the console
 	}
 	
