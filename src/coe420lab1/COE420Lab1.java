@@ -27,12 +27,13 @@ public class COE420Lab1 {
 		float quotient= x/y;
 		System.out.println("The quotient is = " + quotient);
 		//member_D add the feature of multiplying x by y and print the result
-		
+		float product = x*y;
+		System.out.println("The product is = " + product);
 		
 		
 		//Exercise 5: Spot the issues to be reported
 		addition(4,5); // should print the sum of the values provided
-		welcome(); // should print the welcome message to the console
+		System.out.println(welcome()); // should print the welcome message to the console
 	}
 	
 	public static int addition(int w, int z) {
