@@ -24,7 +24,8 @@ public class COE420Lab1 {
 		int difference = x-y;
 		System.out.println("The difference is = " + difference);
 		//member_C add the feature of dividing x by y and print the result
-		
+		float quotient= x/y;
+		System.out.println("The quotient is = " + quotient);
 		//member_D add the feature of multiplying x by y and print the result
 		
 		
